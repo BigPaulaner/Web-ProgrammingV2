@@ -7,7 +7,7 @@ Follow the steps below to run the app locally and launch the developer documenta
 ### 1. Open Terminal and navigate to your project folder:
 
 ```bash
-cd ~/Documents/Web-Programming/CityScore3
+cd ~/Documents/Web-ProgrammingV2/CityScore3
 ```
 ### 2. Create and activate a virtual environment:
 
@@ -65,7 +65,7 @@ http://127.0.0.1:5000
 ### 1. Open Terminal and navigate to your project folder:
 
 ```bash
-cd ~/Documents/Web-Programming/CityScore3
+cd ~/Documents/Web-ProgrammingV2/CityScore3
 ```
 
 ### 2. Start Mkdocs
